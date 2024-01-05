@@ -1,0 +1,2 @@
+# Principal-Component-Analysis-to-the-Boston-Economic-Indicators-Dataset
+This project applies Principal Component Analysis (PCA) to overcome challenges in high-dimensional economic indicator datasets by simplifying data interpretation and identifying critical features. The primary goal is to enhance comprehensibility and insights by visually representing data point relationships in a lower-dimensional space.
